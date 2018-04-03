@@ -1,0 +1,22 @@
+{
+  "code":"1",
+  "data":[
+    {
+      "id":11,
+      "theme":"重要通知重要通知重要通知重要通知",
+      "type":1,
+      "pushTime":"2017-3-1",
+      "attachmentCount":1,
+      "readState":0
+    },
+    {
+      "id":11,
+      "theme":"哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+      "type":2,
+      "pushTime":"2017-3-4",
+      "attachmentCount":0,
+      "readState":1
+    }
+
+  ]
+}

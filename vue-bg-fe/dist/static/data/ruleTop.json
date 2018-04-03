@@ -1,0 +1,30 @@
+{
+  "code":"1",
+  "data":[
+    {
+      "id":21,
+      "ruleName":"运营规则1",
+      "ruleFirstId":2
+    },
+    {
+      "id":11,
+      "ruleName":"运营规则2",
+      "ruleFirstId":1
+    },
+    {
+      "id":23,
+      "ruleName":"运营规则3",
+      "ruleFirstId":2
+    },
+    {
+      "id":23,
+      "ruleName":"运营规则4",
+      "ruleFirstId":2
+    },
+    {
+      "id":23,
+      "ruleName":"运营规则5",
+      "ruleFirstId":2
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "code": "00001",
+  "message": "操作成功",
+  "data": {
+    "total": 4,
+    "rows": [
+      {
+        "id": 62803,
+        "sellerActivityId": 3483,
+        "sellerProductId": 51561,
+        "productSourceSellerId": 40637,
+        "sellerId": 209,
+        "wholesalePrice": 120.5,
+        "activityWholesalePrice": 105,
+        "isFreeFreight": 0,
+        "isLimitStock": 0,
+        "sendAddress":"发货地",
+        "deliverCode":"423sdf",
+        "stock": 12,
+        "availableStock": 0,
+        "createOperator": "商家",
+        "status": 1,
+        "applyRemark": "q2eqqqq",
+        "updateTime": "2017-12-07 14:05:15",
+        "createTime": "2017-12-07 14:05:16",
+        "productStatus": null,
+        "skuImg": "https://yangege.b0.upaiyun.com/seller/platform/all/17977c82305bc.jpg!v1product",
+        "skuName": "【1瓶装】Oneone  Milk Chews 香草味牛初乳咀嚼片",
+        "surplusStock": 292
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "code":"1",
+  "data":{
+    "rows":[
+      {
+        "statusStr":"审核中",
+        "applyTypeStr":"报备啊",
+        "sendAddress":"浙江",
+        "startTime":"2016-09-09",
+        "endTime":"2016-09-10",
+        "diffTime":20,
+        "extendValue":"2015-02-09",
+        "reason":"想报",
+        "fileUrl":"https://yangege.b0.upaiyun.com/seller/message/attachment/c37c4f0ae410.xlsx",
+        "createTime":"2016-09-11"
+      }
+    ],
+    "total":80
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "code": "1",
+  "message": "操作成功",
+  "data": {
+    "id": 603,
+    "code": "201712137643301",
+    "note": "23",
+    "purchaseStorageId": 1,
+    "purchaseStorage": "杭州COE仓",
+    "purchaseAddress": "杭州市萧山区瓜沥镇党柯路80号中盟百富科创园7幢车间整幢建筑物",
+    "purchaseContact": "程三河",
+    "purchaseContactPhone": "0571-82530322",
+    "purchaseOrderStatus": null,
+    "inStorageOrderStatus": 4,
+    "updateTime": "2017-12-13 10:26:01",
+    "sellerName": "【入仓】宁波辉煌十月网络科技有限公司",
+    "sellerCompanyName": "宁波辉煌十月网络科技有限公司",
+    "providerCurrency": 1,
+    "sellerCurrencyDesc": "人民币",
+    "sellerContact": "陆阳洋",
+    "sellerContactPhone": "15726815607",
+    "purchaseSettlement": "预付0定金;账期为0天",
+    "collectionAccount": "377972848796",
+    "bankAddress": "中国银行宁波中山西路支行",
+    "payee": "宁波辉煌十月网络科技有限公司",
+    "swiftCode": "wfk",
+    "bank": "宁波市海曙区中山西路566号",
+    "actualInTotalCount": 10000,
+    "actualInTotalMoney": 1292400,
+    "totalCount": 1110,
+    "totalMoney": 11110,
+    "skuList":[
+      {
+        "baseGoodsCode":"1",
+        "skuCode":"11",
+        "skuName":"11",
+        "deliveryArea":"11111111",
+        "deliveryCode":"11111111",
+        "grossWeight":"11",
+        "netWeight":"21",
+        "manufacturerDate":"11",
+        "durabilityPeriod":"11",
+        "specification":"个",
+        "purchaseUnit":"个",
+        "applyCount":"1000",
+        "wholesalePrice":"11.11"
+      },
+      {
+        "baseGoodsCode":"2",
+        "skuCode":"22",
+        "skuName":"22",
+        "deliveryArea":"2222222",
+        "deliveryCode":"2222222",
+        "grossWeight":"22",
+        "netWeight":"22",
+        "manufacturerDate":"22",
+        "durabilityPeriod":"22",
+        "specification":"个",
+        "purchaseUnit":"个",
+        "applyCount":"2000",
+        "wholesalePrice":"22.22"
+      }
+    ],
+    "pushList":[
+      {
+        "purchaseCode":"2222222",
+        "pushTimes":"1",
+        "pushStatusDesc":"2222222",
+        "pushTime":"2222222",
+        "estimatedDeliveryTime":"2222222",
+        "sendSkuCount":"2",
+        "sendTotalCount":"300",
+        "actualInTotalCount":"2222222"
+      },
+      {
+        "purchaseCode":"2222222",
+        "pushTimes":"2",
+        "pushStatusDesc":"2222222",
+        "pushTime":"2222222",
+        "estimatedDeliveryTime":"2222222",
+        "sendSkuCount":"2",
+        "sendTotalCount":"330",
+        "actualInTotalCount":"2222222"
+      }
+
+    ],
+    "actualSkuList":[
+      {
+        "baseGoodsCode":"2222222",
+        "skuCode":"2222222",
+        "skuName":"2222222",
+        "deliveryArea":"2222222",
+        "deliveryCode":"2222222",
+        "applyCount":"2222222",
+        "sendCount":"2222222",
+        "actualInCount":"2222222",
+        "wholesalePrice":"22.22",
+        "actualInMoney":"23234523434"
+      }
+
+    ]
+  }
+}

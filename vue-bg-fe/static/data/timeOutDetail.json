@@ -1,0 +1,21 @@
+{
+  "code":1,
+  "data":{
+    "orderNumber":"12345556",
+    "orderPayTime":"2017-03-24",
+    "orderExpireTime":"2017-03-25",
+    "collectLogisticsTime":"2017-04-02",
+    "penaltyAmount":12.6,
+    "orderRealPrice":24,
+    "timeoutPeriod":20,
+    "complainList":[
+      {
+        "complainReason":"原因1",
+        "fileUrl":"https://yangege.b0.upaiyun.com/seller/message/attachment/c37c4f0ae410.xlsx",
+        "status":1,
+        "modifyPenaltyAmount":"",
+        "remark":"备注1"
+      }
+    ]
+  }
+}

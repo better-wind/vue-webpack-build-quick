@@ -1,0 +1,20 @@
+{
+  "code": "1",
+  "message": "操作成功",
+  "data":{
+    "total": 1,
+    "rows": [
+      {
+        "baseGoodsCode":"2222222",
+        "skuCode":"2222222",
+        "skuName":"2222222",
+        "deliveryArea":"2222222",
+        "deliveryCode":"2222222",
+        "applyCount":"1000",
+        "alreadyDeliverCount":"200",
+        "actualInCount":"200"
+      }
+    ]
+  }
+
+}

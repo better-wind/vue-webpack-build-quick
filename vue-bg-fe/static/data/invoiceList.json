@@ -1,0 +1,24 @@
+{
+  "code": 1,
+  "data":{
+    "rows":[
+      {
+        "operateNumber":"123452323",
+        "status":"1",
+        "type":"1",
+        "orderType":"1",
+        "applyMoney":"12",
+        "auditTime":"2017-12-12"
+      },
+      {
+        "operateNumber":"123452323",
+        "status":"2",
+        "type":"1",
+        "orderType":"1",
+        "applyMoney":"12",
+        "auditTime":"2017-12-12"
+      }
+    ],
+    "total":100
+  }
+}

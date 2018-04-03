@@ -1,0 +1,35 @@
+{
+  "code": 1,
+  "data":{
+    "processList": [
+    {
+      "id": 19657,
+      "processDesc": "{\"key\":\"客服同意退款:\",\"userInfo\":\"【曹曙光】于【2018-03-30 15:22:03】同意了【深圳发货地--002】的退款申请。\"}",
+      "processImg": "",
+      "processType": 17,
+      "workOrderNum": null,
+      "status": 1,
+      "processUserId": 619,
+      "processUserRealName": "曹曙光",
+      "sourceWorkOrderSerialNum": null,
+      "createTime": "2018-03-30 15:22:04",
+      "type": 0,
+      "phone": null
+    },
+    {
+      "id": 19658,
+      "processDesc": "{\"key\":\"财务确认打款:\",\"userInfo\":\"【曹曙光】于【2018-03-30 15:22:18】确认【深圳发货地--002】已打款（原路退回）。\"}",
+      "processImg": "",
+      "processType": 25,
+      "workOrderNum": null,
+      "status": 1,
+      "processUserId": 619,
+      "processUserRealName": "曹曙光",
+      "sourceWorkOrderSerialNum": null,
+      "createTime": "2018-03-30 15:22:18",
+      "type": 0,
+      "phone": null
+    }
+  ]
+  }
+}

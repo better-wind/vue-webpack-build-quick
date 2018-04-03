@@ -1,0 +1,38 @@
+{
+  "code": "1",
+  "message": "操作成功",
+  "data":{
+    "total": 1,
+    "rows": [
+      {
+        "baseGoodsCode": 11111,
+        "sellerInStorageOrderId": 603,
+        "productSourceSellerId": 1486,
+        "code": "201712137643301",
+        "name": "Culturelleforkids美国LGG婴幼儿益生菌粉30袋/盒",
+        "skuCode": "2015043002",
+        "planCount": 10000,
+        "firstCategoryId": 8,
+        "secondCategoryId": 25,
+        "brandId": 21,
+        "image": "http://yangege.b0.upaiyun.com/33f856f8ebf57.jpg!v1product",
+        "netVolume": "2盒*30袋",
+        "wholesalePrice": 129.24,
+        "grossWeight": 10,
+        "netWeight": 9,
+        "durabilityPeriod": "730天",
+        "manufacturerDate": "2017-12-15",
+        "alreadyDeliverCount": 10000,
+        "createTime": "2017-12-13 10:19:26",
+        "updateTime": "2017-12-13 10:26:01",
+        "storageTransformStatus": 0,
+        "brandName": "Culturelle",
+        "sendAddress": "宁波_重庆保税区",
+        "totalMoney": 1292400,
+        "specification": "2盒*30袋",
+        "sellerProductId": 5452
+      }
+      ]
+  }
+
+}

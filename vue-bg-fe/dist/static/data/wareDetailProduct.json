@@ -1,0 +1,46 @@
+{
+  "code": "1",
+  "message": "操作成功",
+  "data":{
+    "total": 1,
+    "rows": [
+      {
+        "baseGoodsCode":"1",
+        "skuCode":"1",
+        "skuName":"1",
+        "deliveryArea":"1",
+        "deliveryCode":"1",
+        "wholesalePrice":"1",
+        "status":0
+      },
+      {
+        "baseGoodsCode":"2",
+        "skuCode":"2",
+        "skuName":"2",
+        "deliveryArea":"2",
+        "deliveryCode":"2",
+        "wholesalePrice":"2",
+        "status":1
+      },
+      {
+        "baseGoodsCode":"3",
+        "skuCode":"3",
+        "skuName":"3",
+        "deliveryArea":"3",
+        "deliveryCode":"3",
+        "wholesalePrice":"3",
+        "status":2
+      },
+      {
+        "baseGoodsCode":"4",
+        "skuCode":"4",
+        "skuName":"4",
+        "deliveryArea":"4",
+        "deliveryCode":"4",
+        "wholesalePrice":"4",
+        "status":3
+      }
+    ]
+  }
+
+}

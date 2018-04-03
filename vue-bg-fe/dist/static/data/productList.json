@@ -1,0 +1,40 @@
+{
+  "code": 1,
+  "data":{
+    "productList":[
+      {
+        "id":"12345",
+        "image1":"http://192.168.1.19:8090/yuanxing/%E6%A0%BC%E6%A0%BC%E5%AE%B6%E5%90%8E%E5%8F%B0/%E5%95%86%E5%AE%B6%E5%90%8E%E5%8F%B0V1.0/images/%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86/u624.png",
+        "image2":"",
+        "image3":"",
+        "image4":"",
+        "image5":"",
+        "name":"【2盒装】台湾77牌蜜兰诺枫糖葡    萄千层138g/盒 金黄诱人",
+        "saleStatus":"出售中",
+        "status":"审核通过",
+        "salesCount":"2000",
+        "allStock":"1000",
+        "lockStock":"100",
+        "surplusStock":"9"
+      },
+      {
+        "id":"12345",
+        "image1":"http://192.168.1.19:8090/yuanxing/%E6%A0%BC%E6%A0%BC%E5%AE%B6%E5%90%8E%E5%8F%B0/%E5%95%86%E5%AE%B6%E5%90%8E%E5%8F%B0V1.0/images/%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86/u624.png",
+        "image2":"",
+        "image3":"",
+        "image4":"",
+        "image5":"",
+        "name":"【2盒装】台湾77牌蜜兰诺枫糖葡    萄千层138g/盒 金黄诱人",
+        "saleStatus":"出售中",
+        "status":"审核通过",
+        "salesCount":"2000",
+        "allStock":"1000",
+        "lockStock":"100",
+        "surplusStock":"9"
+      }
+    ],
+    "total":400,
+    "page":0,
+    "size":20
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "code":1,
+  "data":{
+    "taxpayerCode":"纳税人识别码",
+    "logisticsChannel":"物流渠道",
+    "logisticsNumber":"物流单号",
+    "registerPhone":"注册电话",
+    "registerAddress":"注册地址",
+    "receiveAddress":"收货详细地址",
+    "provinceCityDistrict":"收货省",
+    "receivePhone":"收货手机",
+    "receivePerson":"收货人",
+    "receiveEmail":"接收邮箱",
+    "status":"1",
+    "operateNumber":"开票编号",
+    "bankName":"开户银行",
+    "bankAccount":"开户行账号",
+    "auditTime":"审核时间",
+    "remark":"备注",
+    "type":"1",
+    "headType":"发票抬头",
+    "taxHead":"发票抬头",
+    "number":"发票号码",
+    "code":"发票代码",
+    "sendType":"1"
+  }
+}

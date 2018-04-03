@@ -1,0 +1,24 @@
+{
+  "code": "1",
+  "message": "操作成功",
+  "data":{
+    "total": 1,
+    "rows": [
+      {
+        "id": 6600,
+        "pushBatch": 1,
+        "pushCode": "201712137643301",
+        "pushStatus": "待入库",
+        "pushTime": "2017-12-13 10:26:02",
+        "productDeliveryTime": "2017-12-13 10:25:59",
+        "skus": "2015043002",
+        "skusCount": 1,
+        "totalCount": 10000,
+        "storingAmount": 0,
+        "actuallyStorageCount": 0
+      }
+    ]
+  }
+}
+
+
