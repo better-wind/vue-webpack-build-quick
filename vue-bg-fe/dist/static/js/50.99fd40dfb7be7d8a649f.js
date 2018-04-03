@@ -1,0 +1,2 @@
+webpackJsonp([50],{"G/qj":function(e,t){e.exports={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h1",[this._v("活动提报")]),this._v(" "),t("div")])}]}},y7HV:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i=n("G/qj"),s=n.n(i),r=n("VU/8")({name:"activityReport",methods:{}},s.a,!1,null,null,null);t.default=r.exports}});
+//# sourceMappingURL=50.99fd40dfb7be7d8a649f.js.map
